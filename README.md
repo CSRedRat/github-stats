@@ -8,7 +8,7 @@
 </a>
 
 Generate visualizations of GitHub user and repository statistics using GitHub
-Actions.
+Actions for [topalias](https://github.com/CSRedRat/topalias) repository: [https://github.com/CSRedRat/topalias](https://github.com/CSRedRat/topalias)
 
 This project is currently a work-in-progress; there will always be more
 interesting stats to display.
@@ -85,3 +85,4 @@ caches statistics for your repositories. For more information, see issue
   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
   match the GitHub UI
+- Topalias: [GitHub](https://github.com/CSRedRat/topalias) && [GitLab](https://gitlab.com/CSRedRat/topalias)
